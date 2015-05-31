@@ -1,0 +1,14 @@
+{
+  "name": "frameless-connect",
+  "version": "1.0.0",
+  "description": "Use bonjour to have the Frameless iOS app connect to your local server by pretending to be Framer Studio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Feldstein",
+  "license": "ISC",
+  "dependencies": {
+    "mdns": "^2.2.8"
+  }
+}
