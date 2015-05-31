@@ -8,3 +8,9 @@ If you have a node app or any other web server running on port 8080, use the fol
 var bonjour = require('frameless-connect');
 bonjour(8080);
 ```
+
+### Use in the command line
+
+`$ npm install frameless-connect -g`
+
+`$ frameless-connect 8080 # Or whatever port you want to view`

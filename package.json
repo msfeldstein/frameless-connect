@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "frameless-connect": "./cmd.js"
+  },
   "author": "Michael Feldstein",
   "license": "ISC",
   "dependencies": {
